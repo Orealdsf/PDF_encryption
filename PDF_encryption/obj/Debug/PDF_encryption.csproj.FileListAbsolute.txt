@@ -1,0 +1,11 @@
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\PDF_encryption.exe.config
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\PDF_encryption.exe
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\PDF_encryption.pdb
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\itextsharp.dll
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\bin\Debug\itextsharp.xml
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\obj\Debug\PDF_encryption.csprojAssemblyReference.cache
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\obj\Debug\PDF_encryption.csproj.CoreCompileInputs.cache
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\obj\Debug\PDF_encryption.csproj.CopyComplete
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\obj\Debug\PDF_encryption.exe
+C:\Users\10807560\source\repos\PDF_encryption\PDF_encryption\obj\Debug\PDF_encryption.pdb
